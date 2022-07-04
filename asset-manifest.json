@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anuwatchaturon/react-crud/static/css/main.abd64e84.css",
-    "main.js": "/Anuwatchaturon/react-crud/static/js/main.5d0cad69.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Anuwatchaturon/react-crud/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Anuwatchaturon/react-crud/index.html",
-    "main.abd64e84.css.map": "/Anuwatchaturon/react-crud/static/css/main.abd64e84.css.map",
-    "main.5d0cad69.js.map": "/Anuwatchaturon/react-crud/static/js/main.5d0cad69.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Anuwatchaturon/react-crud/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-crud/static/css/main.abd64e84.css",
+    "main.js": "/react-crud/static/js/main.e3c5fa41.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-crud/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-crud/index.html",
+    "main.abd64e84.css.map": "/react-crud/static/css/main.abd64e84.css.map",
+    "main.e3c5fa41.js.map": "/react-crud/static/js/main.e3c5fa41.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-crud/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.5d0cad69.js"
+    "static/js/main.e3c5fa41.js"
   ]
 }
